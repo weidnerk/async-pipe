@@ -1,5 +1,8 @@
 # AsyncPipe
 
+Taken from http://www.concretepage.com/angular-2/angular-2-async-pipe-example  
+Show examples using async with Observables and Promises
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
